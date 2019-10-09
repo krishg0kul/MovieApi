@@ -1,0 +1,51 @@
+#rate {
+  height: 30px;
+}
+.list-group-flush {
+  text-align: left;
+}
+#adult {
+  height: 50px;
+}
+#moviediv {
+  margin-top: 10px;
+  /* max-height: 60rem; */
+  padding: 0px;
+}
+#imgdiv {
+  margin-top: 5px;
+  align-self: center;
+  width: 170px;
+  height: 238px;
+}
+#textplace {
+  height: 240px;
+  width: 240px;
+  border: 1px solid #ccc;
+  font: 16px/26px Georgia, Garamond, Serif;
+  overflow: auto;
+}
+#popular {
+  width: 55px;
+  height: 41px;
+}
+#c_tit {
+  width: 246px;
+  height: 46px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#vote {
+  width: 45px;
+  height: 35px;
+}
+#filter {
+  height: 67px;
+  width: 57px;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-right: 35px;
+  left: auto;
+  border-radius: 44% 44% 50% 50%;
+  background-color: lightgray;
+  cursor: pointer;
+}
